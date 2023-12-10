@@ -1,0 +1,9 @@
+{
+	"name": "az-DataFactory-Databricks-Wilson",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a4cd143-73e6-4446-b635-0814245c828a",
+		"tenantId": "a6a38564-2877-4b29-bf66-957b4d704d86"
+	}
+}
